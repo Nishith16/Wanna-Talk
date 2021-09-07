@@ -1,3 +1,5 @@
+![Screenshot (80)](https://user-images.githubusercontent.com/75018137/132371620-fe911e28-bf0d-4845-85f9-4378209f19ca.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/75018137/132371639-002cbbff-4ac3-47bf-866d-586db28c58ac.png)
 # Wanna-Talk
 1.Wanna Talk is a Minimal social media Web application.
 2.A user can make a post via simple registration or login process.
